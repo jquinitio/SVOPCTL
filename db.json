@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "1720864989150",
+      "name": "Prepare presentation slides",
+      "description": "Create slides for the project presentation. Include key points and visuals.",
+      "status": "Pending",
+      "dueDate": "2024-05-31"
+    },
+    {
+      "id": "1720865017439",
+      "name": "Update website footer",
+      "description": "Update website content with recent achievements and news",
+      "status": "Pending",
+      "dueDate": "2024-05-20"
+    },
+    {
+      "id": "1720865052343",
+      "name": "Prepare Project Proposal",
+      "description": "Write and finalize the project proposal document for the upcoming conference.",
+      "status": "In Progress",
+      "dueDate": "2024-05-10"
+    },
+    {
+      "id": "1720865107095",
+      "name": "Update website content",
+      "description": "Update website content with recent achievements and news",
+      "status": "Completed",
+      "dueDate": "2024-05-24"
+    },
+    {
+      "id": "1720865122151",
+      "name": "Sample Task",
+      "description": "Hello World!",
+      "status": "Cancelled",
+      "dueDate": "2024-05-11"
+    }
+  ]
+}
